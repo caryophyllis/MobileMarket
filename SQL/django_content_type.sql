@@ -1,0 +1,16 @@
+INSERT INTO `django_content_type` VALUES (1, 'admin', 'logentry');
+INSERT INTO `django_content_type` VALUES (3, 'auth', 'group');
+INSERT INTO `django_content_type` VALUES (2, 'auth', 'permission');
+INSERT INTO `django_content_type` VALUES (4, 'auth', 'user');
+INSERT INTO `django_content_type` VALUES (15, 'axf', 'cart');
+INSERT INTO `django_content_type` VALUES (12, 'axf', 'foodtypes');
+INSERT INTO `django_content_type` VALUES (13, 'axf', 'goods');
+INSERT INTO `django_content_type` VALUES (11, 'axf', 'mainshow');
+INSERT INTO `django_content_type` VALUES (9, 'axf', 'mustbuy');
+INSERT INTO `django_content_type` VALUES (8, 'axf', 'nav');
+INSERT INTO `django_content_type` VALUES (16, 'axf', 'order');
+INSERT INTO `django_content_type` VALUES (10, 'axf', 'shop');
+INSERT INTO `django_content_type` VALUES (14, 'axf', 'user');
+INSERT INTO `django_content_type` VALUES (7, 'axf', 'wheel');
+INSERT INTO `django_content_type` VALUES (5, 'contenttypes', 'contenttype');
+INSERT INTO `django_content_type` VALUES (6, 'sessions', 'session');
